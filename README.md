@@ -1,2 +1,2 @@
 # repo2
-Test repo 2
+A small edit
